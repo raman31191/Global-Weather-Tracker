@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+This Weather App provides real-time weather updates for cities worldwide. Built using Flutter, it integrates with the OpenWeather API to fetch weather data, including temperature, humidity, wind speed, and other key metrics. The app features a dynamic user interface that changes based on the weather condition, displaying icons and background images that match the current weather, such as sunny, cloudy, rainy, or snowy.
 
 ## Getting Started
 
