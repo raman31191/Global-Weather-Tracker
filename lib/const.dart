@@ -1,0 +1,2 @@
+const OPENWEATHER_API_KEY = "7da7b72390505e775cbe9d9904f0d00c";
+const AQI_API_KEY = 'd1e496f5b1dee9fc9e68252c9deef0fc';
