@@ -23,9 +23,10 @@ The app features a dynamic user interface that adapts to the current weather con
 - **OpenWeather API** – for retrieving real-time weather data.
 - **WeatherIcons** – for representing weather conditions visually.
 
----
-![Screenshot 2025-04-18 202611](https://github.com/user-attachments/assets/65c0266c-e8f4-4cfa-8d69-ad01e9c7f535)
-![Screenshot 2025-04-18 202505](https://github.com/user-attachments/assets/f72c133d-d571-475e-ac42-b168fde82e30)
+---![Screenshot 2025-04-18 202505](https://github.com/user-attachments/assets/01b8cca8-8481-49e5-88a0-3e319764d032)
+![Screenshot 2025-04-18 202750](https://github.com/user-attachments/assets/ba95565b-ebd4-4d70-87cc-d84ebc58747b)
+
+
 
 ## 🚀 Getting Started
 
